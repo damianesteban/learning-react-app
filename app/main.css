@@ -1,0 +1,13 @@
+body {
+  background-color: cornsilk;
+  font-family: sans-serif;
+}
+
+.name, .powerLevel, .hometown {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.bold-text {
+  font-weight: bolder;
+}
